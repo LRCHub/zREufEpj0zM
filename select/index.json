@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "天使のagape",
+  "base_artist": "天音かなた",
+  "createdAt": "2025-12-18T03:04:26.773949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天使のagape",
+      "artist": "天音かなた",
+      "has_synced": true,
+      "path": "select/01_天使のagape_天音かなた.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使のagape",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_天使のagape_天音かなた.txt"
+    }
+  ]
+}
